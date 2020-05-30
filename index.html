@@ -298,6 +298,15 @@
 					.style("font-size", "10px")
 					.attr("text-align", "right")
 					.text("Data source: www.ourworldindata.org/coronavirus-source-data")
+				
+				//Add version, release date and Author name
+				svg.append("text")
+					.attr("x", 250)
+					.attr("y", 580)
+					.style("font-family", "sans-serif")
+					.style("font-size", "10px")
+					.attr("text-align", "left")
+					.text("Date: 30-May-2020 | Issue: v1.1 | Author: Pankaj NATH")
 			}
 			
 			var day_idx = 0;
