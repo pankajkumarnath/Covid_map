@@ -1,8 +1,8 @@
 # CoViD-19 Spread in World
 
-**Author**: Pankaj NATH
-**Date**: 30th May, 2020
-**Issue**: v1.0
+**Author**: Pankaj NATH  
+**Date**: 30th May, 2020  
+**Issue**: v1.1  
   
 ## Summary  
   
