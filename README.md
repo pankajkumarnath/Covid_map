@@ -1,13 +1,8 @@
-# Make-Effective-Data-Visualization
+# CoViD-19 Spread in World
 
-Udacity Project on Data Visualization with D3.js for AIRBUS Data Analyst Nanodegree Program.
-
-**Title**: CoViD-19 Spread around the World  
 **Author**: Pankaj NATH
-
-`File Name`|`Issue`|`Date`|`Reason for Revision`
------------|-------|------|---------------------
-index_final.html|v1.0|30th May, 2020|First submission
+**Date**: 30th May, 2020
+**Issue**: v1.0
   
 ## Summary  
   
@@ -53,5 +48,4 @@ Countries latitude and longitude: [https://developers.google.com/public-data/doc
 JSON World map file: [https://geojson-maps.ash.ms/]  
 Basic bubble map in d3.js: [https://www.d3-graph-gallery.com/graph/bubblemap_basic.html]  
 Building tooltips with d3.js: [https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html]  
-How to create a simple tooltip in d3: [https://mappingwithd3.com/tutorials/basics/tooltip/]  
-  
+How to create a simple tooltip in d3: [https://mappingwithd3.com/tutorials/basics/tooltip/]
