@@ -397,8 +397,7 @@
 		var format = d3.time.format("%Y-%m-%d");
 		
 		// Loading TSV data and changing data format from string
-		d3.tsv("covid-data-29052020.tsv", function(d) {
-		//d3.tsv("test_small.tsv", function(d) {
+		d3.tsv("covid-data.tsv", function(d) {
 			d['percent_world'] = +d['percent_world'];
 			d['total_cases'] = +d['total_cases'];
 			d['date'] = format.parse(d['date']);
